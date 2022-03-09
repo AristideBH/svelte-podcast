@@ -4,7 +4,8 @@ import adapter from '@sveltejs/adapter-auto';
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
 	kit: {
-		adapter: adapter(
+		adapter:
+			adapter()
 			// {
 			// 	// default options are shown
 			// 	pages: 'build',
@@ -12,7 +13,6 @@ const config = {
 			// 	fallback: null,
 			// 	precompress: false
 			// }
-		)
 	}
 };
 
