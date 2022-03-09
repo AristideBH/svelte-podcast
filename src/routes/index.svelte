@@ -2,7 +2,7 @@
 	import { podcasts } from '$lib/data/podcasts.json';
 </script>
 
-<h1>Podacsts</h1>
+<h1>Podcasts</h1>
 
 
 {#each podcasts as podcast}
