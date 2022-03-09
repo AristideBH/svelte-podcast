@@ -1,0 +1,103 @@
+{
+	"podcasts": [
+		{
+			"id": 1,
+			"title": "Les années Brésil",
+			"subtitle": "Quand l’exil se conjugue avec l’aventure entrepreneuriale",
+			"audio": "https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.mp3",
+			"color": "#002672",
+			"hero": "./images/01-bresil.png",
+			"content": [
+				"<p>Au lendemain de la guerre, la situation est difficile. Les parents de Jean-Pierre Le Roch envisagent de s’expatrier. En 1947, leur décision est prise. Ils partent en famille pour le Brésil.</p>"
+			]
+		},
+		{
+			"id": 2,
+			"title": "1959 à 1969",
+			"subtitle": "Le temps des pionniers",
+			"audio": "https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.mp3",
+			"color": "#478CBF",
+			"hero": "./images/02-5969.png",
+			"content": [
+				"<p>Dans les années 1950, le France se reconstruit. La créativité est partout. Les sixties vont décupler cet esprit. Et permettre à ceux qui deviendront Les Mousquetaires de prendre leur envol, portés par la société de consommation en plein essor.</p>"
+			]
+		},
+		{
+			"id": 3,
+			"title": "1969 à 1979",
+			"subtitle": "Les années de construction",
+			"audio": "./static/audio.mp3",
+			"color": "#D4D037",
+			"hero": "./images/03-6979.png",
+			"content": [
+				"<p>Cette décennie qui débute par la rupture avec Édouard Leclerc, coïncide avec la fin des Trente Glorieuses actée par le premier choc pétrolier de 1973 puis le second, en 1979. Des événements qui favoriseront le positionnement des Mousquetaires sur les prix bas.</p>"
+			]
+		},
+		{
+			"id": 4,
+			"title": "1979 à 1989",
+			"subtitle": "Les années de conquêtes",
+			"audio": "./static/audio.mp3",
+			"color": "#D45B40",
+			"hero": "./images/04-7989.png",
+			"content": [
+				"<p>Les Mousquetaires se déploient dans l’Hexagone qui accueille les premiers TGV. Ils développent leur propre logistique et leur outil de production intégré. Ils se diversifient aussi via de nouvelles enseignes comme : Bricomarché, Restaumarché, Stationmarché…</p> "
+			]
+		},
+		{
+			"id": 5,
+			"title": "1989 à 1999",
+			"subtitle": "Les années de consolidation",
+			"audio": "./static/audio.mp3",
+			"color": "#7EB674",
+			"hero": "./images/05-8999.png",
+			"content": [
+				"<p>L’expansion se poursuit hors de l’Hexagone : Portugal, Belgique, Pologne… L’acquisition du Kerguelen de Trémarec pose les bases de la Scapêche, tandis que le pôle agroalimentaire intègre toujours plus de nouvelles unités de production.</p>"
+			]
+		},
+		{
+			"id": 6,
+			"title": "1999 à 2009",
+			"subtitle": "Les années des défis multiples",
+			"audio": "./static/audio.mp3",
+			"color": "#CC4A36",
+			"hero": "./images/06-9909.png",
+			"content": [
+				"<p>À l’image d’un début de siècle chaotique, Les Mousquetaires connaissent un contexte difficile. Malgré tout, le Groupement reprend l’initiative et l’offensive, au moment où les modes de communication changent définitivement et radicalement. </p>"
+			]
+		},
+		{
+			"id": 7,
+			"title": "2009 à 2019",
+			"subtitle": "Construire un avenir durable",
+			"audio": "./static/audio.mp3",
+			"color": "#79BCBB",
+			"hero": "./images/07-0919.png",
+			"content": [
+				"<p>Le digital bouleverse tout sur son passage. Ventes en ligne, livraisons à domicile, nouveaux circuits de distribution, nouveaux modes de consommation et développement durable se conjuguent dans une équation complexe. Les Mousquetaires vont savoir s’adapter ! </p>"
+			]
+		},
+		{
+			"id": 8,
+			"title": "Un pour tous,<br> tous pour un !",
+			"subtitle": "Les Trois Mousquetaires dans la culture populaire",
+			"audio": "./static/audio.mp3",
+			"color": "#D45B40",
+			"hero": "./images/08-mousqu.png",
+			"content": [
+				"<p>En 1974, Intermarché cherche une signature facilement identifiable. Le publicitaire Jacques de Gennes leur propose “ Les Mousquetaires de la distribution”. Les héros d’Alexandre Dumas ne sont-ils pas célèbres pour leurs prouesses et leur esprit de corps ?</p>"
+			]
+		},
+		{
+			"id": 9,
+			"title": "Le parc de Tréville",
+			"subtitle": "La capitale des Mousquetaires",
+			"audio": "./static/audio.mp3",
+			"color": "#499442",
+			"hero": "./images/09-temp.png",
+			"content": [
+				"<p>Investie en 1999, la capitale des Mousquetaires s’étend sur plus de 82 hectares de verdure. Le Parc est né de la volonté du Groupement d’offrir à ses collaborateurs un cadre de travail agréable, propice à développer ses plus grands projets. Aujourd’hui, quelque 2 200 collaborateurs s’y côtoient chaque jour. </p>"
+			]
+		}
+	]
+}
