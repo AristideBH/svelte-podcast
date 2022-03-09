@@ -3,9 +3,10 @@
 </script>
 
 <h1>Podacsts</h1>
-<hr>
+
 
 {#each podcasts as podcast}
+<hr>
 	<a href="./{podcast.id}">
 		<article data-color={podcast.color}>
 			<h1>{@html podcast.title}</h1>
